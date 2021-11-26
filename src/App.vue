@@ -1,8 +1,8 @@
 <template>
-	<div class="flex flex-col h-full w-full justify-center items-center">
+	<div class="flex flex-col h-full w-full justify-center items-center p-4">
 		<h1 class="text-4xl mb-14 flex flex-row gap-3">
 			<a href="https://zencod.ru/articles/" target="_blank" class="hover:opacity-50 transition-opacity" title="zencod.ru">
-				<img src="../public/favicon.svg" alt="logo zencod.ru" width="40" height="40">
+				<img src="/favicon.svg" alt="logo zencod.ru" width="40" height="40">
 			</a>
 			Генератор паролей
 		</h1>
